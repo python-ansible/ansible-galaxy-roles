@@ -40,3 +40,7 @@
 [submodule "roles/ansible-ghost"]
 	path = roles/ansible-ghost
 	url = git@github.com:AnsibleShipyard/ansible-ghost
+[submodule "roles/ansible-zookeeper"]
+	path = roles/ansible-zookeeper
+	url = git@github.com:python-ansible/ansible-ghost
+
